@@ -1,0 +1,29 @@
+h1 {
+    font-size: 48px;
+    font-family: 'Pontano Sans';
+}
+h2 {
+    color: rgb(3, 60, 165);
+    font-size: 36px;
+    font-family: 'Lobster';
+}
+h3 {
+    color: rgb(56, 73, 105);
+    font-size: 24px;
+    font-family: 'Lobster';
+}
+.jumbotron {
+    background-image: url(jumbotronpic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+  
+.jumbotron img {
+    height: 100px;
+}
+
+h5 {
+    color: white;
+    font-size: 48px;
+    font-family: 'Lobster';
+}
