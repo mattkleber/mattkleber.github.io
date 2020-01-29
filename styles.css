@@ -27,3 +27,9 @@ h5 {
     font-size: 48px;
     font-family: 'Lobster';
 }
+
+.container img {
+    max-height: 540px;
+    height: 70%;
+    width: auto;
+}
